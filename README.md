@@ -2,7 +2,13 @@
 
 This is the fifth order of boards from JLC PCB.
 It contains:
-
+- [EEPROM Programmer](https://github.com/Tonikiller10000/EEPROM_PROGRAMER);
+- [TPA3128D2_AudioAmplifier](https://github.com/Tonikiller10000/TPA3128D2_AudioAmplifier);
+- [SD card reader](https://github.com/Tonikiller10000/USB-MicroSD_CardReader);
+- [Keystroke injection tool](https://github.com/Tonikiller10000/KeystrokeInjectionTool);
+- [Ultrasonic phased array](https://github.com/Tonikiller10000/UltrasonicPhasedArray);
+- Mems microphones test boards;
+- other testing boards.
 
 
 ### The board:
